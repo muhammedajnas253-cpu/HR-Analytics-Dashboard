@@ -141,3 +141,7 @@ Data Science Student | Aspiring Data Analyst
 ⭐ If you find this project interesting, feel free to explore the repository!
 
 **Built with Microsoft Excel | HR Analytics Project**
+
+## 📸 Dashboard Preview
+
+![HR Analytics Dashboard](dashboard-preview.png)
